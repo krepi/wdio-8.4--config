@@ -15,13 +15,13 @@ This repository contains a test automation environment based on WebdriverIO usin
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/krepi/wdio-8.4--config
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd 
+   cd wdio-8.4--config
    ```
 
 3. Install the dependencies:
@@ -63,7 +63,7 @@ The main project configuration is located in the `wdio.conf.ts` file. Adjust set
 
 ## Author
 
-[Your Name or Team Name]
+Przemyslaw Krepski
 
 ## License
 
